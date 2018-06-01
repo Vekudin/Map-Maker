@@ -1,0 +1,8 @@
+﻿  Illustrator.cpp
+i:\zsfml\mapmaker\mapmaker\illustrator.cpp(8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\zsfml\mapmaker\mapmaker\illustrator.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\zsfml\mapmaker\mapmaker\illustrator.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\zsfml\mapmaker\mapmaker\illustrator.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\zsfml\mapmaker\mapmaker\illustrator.cpp(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MapMaker.vcxproj -> I:\zSFML\MapMaker\Debug\MapMaker.exe
+  MapMaker.vcxproj -> I:\zSFML\MapMaker\Debug\MapMaker.pdb (Full PDB)
